@@ -1,2 +1,2 @@
 # arukas-sample
-アルカス動かす
+[Arukas(アルカス)](https://arukas.io/)動かす
